@@ -1,0 +1,40 @@
+#!/bin/bash
+
+set -Eeuo pipefail
+
+usage(){
+    echo "Usage: $0 (create|destroy|reset|dump)"
+}
+
+if [ $# -ne 1 ]; then
+    usage
+    exit 1
+fi
+
+case $1 in
+    "create_data_db")
+        echo "create has been invoked!!"
+        sqlite3 ../var/data_db.sqlite3 < ../var/sql/data_sql/schema.sql;
+        sqlite3 ../var/data_db.sqlite3 < ../var/sql/data_sql/data.sql;
+        ;;
+    "destroy_data_db")
+        echo "destroy has been invoked!!"
+        rm -rf ../var/databases/data_db.sqlite3;
+        ;;
+    "reset_data_db")
+        echo "reset has been invoked!!"
+        rm -rf ../var/databases/data_db.sqlite3;
+        sqlite3 ../var/databases/data_db.sqlite3 < var/sql/data_sql/schema.sql;
+        sqlite3 ../var/databases/data_db.sqlite3 < var/sql/data_sql/data.sql;
+        ;;
+    "dump_data_db")
+        echo "dumping all the data including users,data and timestamp";
+        sqlite3 -batch -line var/databases/data_db.sqlite3. 'SELECT * FROM devices';
+        ;;
+    *)
+    usage
+    exit 1
+    ;;
+esac
+
+

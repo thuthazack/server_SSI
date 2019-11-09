@@ -1,0 +1,3552 @@
+ * Running on http://141.212.114.146:22222/ (Press CTRL+C to quit)
+35.3.36.25 - - [26/Oct/2019 21:10:21] "GET / HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:10:21] "GET /favicon.ico HTTP/1.1" 404 -
+35.3.36.25 - - [26/Oct/2019 21:10:25] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:27] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:28] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:29] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:29] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:30] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:37] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:37] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:38] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:38] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:39] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:39] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:39] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:39] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:42] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:11:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:12:03] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:12:21] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:12:21] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:12:22] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:19:46] "GET /sms HTTP/1.1" 200 -
+Starting FLASK....
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurri35.3.36.25 - - [26/Oct/2019 21:29:44] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:45] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:45] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:45] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:53] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:54] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:54] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:55] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:55] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:55] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:58] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:29:58] "GET /sms HTTP/1.1" 200 -
+ng task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xe1', 'Array[y] value is: ', '0x61')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xc3', 'Array[y] value is: ', '0x43')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################107.21.85.12 - - [26/Oct/2019 21:30:12] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 21:30:15] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:41] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:42] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:42] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:44] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:45] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:45] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:50] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:58] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:58] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:58] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:36:59] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:37:17] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:37:17] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:37:17] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:37:47] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:37:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:38:42] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:38:43] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:38:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:39:38] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:39:38] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:39:40] "GET /sms HTTP/1.1" 200 -
+### 
+
+
+
+
+[195, 225]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurr52.90.223.164 - - [26/Oct/2019 21:41:13] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 21:41:14] "GET /sms HTTP/1.1" 200 -
+54.196.150.94 - - [26/Oct/2019 21:43:07] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 21:44:02] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:03] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:10] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:11] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:14] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:24] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:39] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:39] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:44:41] "GET /sms HTTP/1.1" 200 -
+ing task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xe1', 'Array[y] value is: ', '0x61')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xc3', 'Array[y] value is: ', '0x43')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################### 
+
+
+
+
+[195, 225]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xe1', 'Array[y] value is: ', '0x61')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xc3', 'Array[y] value is: ', '0x43')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################### 
+
+
+
+
+[195, 225]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring35.3.36.25 - - [26/Oct/2019 21:49:08] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:49:09] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:49:09] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:49:10] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:54] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:55] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:55] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:56] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:57] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:58] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:58] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:56:59] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:57:07] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:57:07] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 21:57:08] "GET /sms HTTP/1.1" 200 -
+ task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 15)
+('Temp value here is: ', '0x2', ' ||||', '0x80', 'x%7 is:', 6, 'Binary value here is:', 43)
+('Temp value is: ', '0xb0', 'Array[y] value is: ', '0x30')
+#####################################
+('Y value is:', 15, '|| X value is :', 13)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 14)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 5, 'Binary value here is:', 43)
+('Temp value is: ', '0x50', 'Array[y] value is: ', '0x50')
+#####################################
+('Y value is:', 14, '|| X value is :', 12)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 13)
+('Temp value here is: ', '0x8', ' ||||', '0x80', 'x%7 is:', 4, 'Binary value here is:', 43)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 13, '|| X value is :', 11)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 12)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 3, 'Binary value here is:', 43)
+('Temp value is: ', '0x22', 'Array[y] value is: ', '0x22')
+#####################################
+('Y value is:', 12, '|| X value is :', 10)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 11)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 43)
+('Temp value is: ', '0xa4', 'Array[y] value is: ', '0x24')
+#####################################
+('Y value is:', 11, '|| X value is :', 9)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 10)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 1, 'Binary value here is:', 43)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 10, '|| X value is :', 8)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 9)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 0, 'Binary value here is:', 43)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 9, '|| X value is :', 7)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 8)
+('Temp value here is: ', '0x1', ' ||||', '0x80', 'x%7 is:', 7, 'Binary value here is:', 43)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 8, '|| X value is :', 6)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 7)
+('BINARY AF', '0x36')
+#####################################
+('Y value is:', 7, '|| X value is :', 6)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 6)
+('Temp value here is: ', '0x2', ' ||||', '0x80', 'x%7 is:', 6, 'Binary value here is:', 54)
+('Temp value is: ', '0xd4', 'Array[y] value is: ', '0x54')
+#####################################
+('Y value is:', 6, '|| X value is :', 5)
+#####52.204.132.171 - - [26/Oct/2019 22:45:18] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 22:45:23] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:25] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:26] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:26] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:27] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:27] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:28] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:28] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:28] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:29] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:29] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:29] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:30] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:33] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:34] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:34] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:35] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:36] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:36] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:46] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:45:47] "GET /sms HTTP/1.1" 200 -
+################################ 
+
+
+
+
+('Y value at beginning is: ', 5)
+('Temp value here is: ', '0x4', ' ||||', '0x80', 'x%7 is:', 5, 'Binary value here is:', 54)
+('Temp value is: ', '0xa8', 'Array[y] value is: ', '0x28')
+#####################################
+('Y value is:', 5, '|| X value is :', 4)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 4)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 4, 'Binary value here is:', 54)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 4, '|| X value is :', 3)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 3)
+('Temp value here is: ', '0x10', ' ||||', '0x80', 'x%7 is:', 3, 'Binary value here is:', 54)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 3, '|| X value is :', 2)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 2)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 54)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 2, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 1, 'Binary value here is:', 54)
+('Temp value is: ', '0x40', 'Array[y] value is: ', '0x40')
+#####################################
+('Y value is:', 1, '|| X value is :', 0)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 0, 'Binary value here is:', 54)
+('Temp value is: ', '0x2c', 'Array[y] value is: ', '0x2c')
+#####################################
+('Y value is:', 0, '|| X value is :', -1)
+##################################### 
+
+
+
+
+[64, 167, 167, 39, 168, 212, 167, 39, 39, 164, 34, 167, 80, 44]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 15)
+('Temp value here is: ', '0x2', ' ||||', '0x80', 'x%7 is:', 6, 'Binary value here is:', 43)
+('Temp value is: ', '0xb0', 'Array[y] value is: ', '0x30')
+#####################################
+('Y value is:', 15, '|| X value is :', 13)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 14)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 5, 'Binary value here is:', 43)
+('Temp value is: ', '0x50', 'Array[y] value is: ', '0x50')
+#####################################
+('Y value is:', 14, '|| X value is :', 12)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 13)
+('Temp value here is: ', '0x8', ' ||||', '0x80', 'x%7 is:', 4, 'Binary value here is:', 43)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 13, '|| X value is :', 11)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 12)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 3, 'Binary value here is:', 43)
+('Temp value is: ', '0x22', 'Array[y] value is: ', '0x22')
+##################35.172.199.156 - - [26/Oct/2019 22:47:59] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 22:48:05] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:06] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:06] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:07] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:07] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:08] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:08] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:09] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:09] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:09] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:09] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:10] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:10] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 22:48:10] "GET /sms HTTP/1.1" 200 -
+###################
+('Y value is:', 12, '|| X value is :', 10)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 11)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 43)
+('Temp value is: ', '0xa4', 'Array[y] value is: ', '0x24')
+#####################################
+('Y value is:', 11, '|| X value is :', 9)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 10)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 1, 'Binary value here is:', 43)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 10, '|| X value is :', 8)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 9)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 0, 'Binary value here is:', 43)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 9, '|| X value is :', 7)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 8)
+('Temp value here is: ', '0x1', ' ||||', '0x80', 'x%7 is:', 7, 'Binary value here is:', 43)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 8, '|| X value is :', 6)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 7)
+('BINARY AF', '0x36')
+#####################################
+('Y value is:', 7, '|| X value is :', 6)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 6)
+('Temp value here is: ', '0x2', ' ||||', '0x80', 'x%7 is:', 6, 'Binary value here is:', 54)
+('Temp value is: ', '0xd4', 'Array[y] value is: ', '0x54')
+#####################################
+('Y value is:', 6, '|| X value is :', 5)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 5)
+('Temp value here is: ', '0x4', ' ||||', '0x80', 'x%7 is:', 5, 'Binary value here is:', 54)
+('Temp value is: ', '0xa8', 'Array[y] value is: ', '0x28')
+#####################################
+('Y value is:', 5, '|| X value is :', 4)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 4)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 4, 'Binary value here is:', 54)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 4, '|| X value is :', 3)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 3)
+('Temp value here is: ', '0x10', ' ||||', '0x80', 'x%7 is:', 3, 'Binary value here is:', 54)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 3, '|| X value is :', 2)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 2)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 54)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 2, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 1, 'Binary value here is:', 54)
+('Temp value is: ', '0x40', 'Array[y] value is: ', '0x40')
+#####################################
+('Y value is:', 1, '|| X value is :', 0)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 0, 'Binary value here is:', 54)
+('Temp value is: ', '0x2c', 'Array[y] value is: ', '0x2c')
+#####################################
+('Y value is:', 0, '|| X value is :', -1)
+##################################### 
+
+
+
+
+[64, 167, 167, 39, 168, 212, 167, 39, 39, 164, 34, 167, 80, 44]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+100.24.17.58 - - [26/Oct/2019 22:53:05] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 22:53:21] "GET /sms HTTP/1.1" 200 -
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xe1', 'Array[y] value is: ', '0x61')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xc3', 'Array[y] value is: ', '0x43')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################### 
+
+
+
+
+[195, 225]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run rec34.239.113.33 - - [26/Oct/2019 23:02:40] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+urring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xe1', 'Array[y] value is: ', '0x61')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xc3', 'Array[y] value is: ', '0x43')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################### 
+
+
+
+
+[195, 225]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 15)
+('Temp value here is: ', '0x2', ' ||||', '0x80', 'x%7 is:', 6, 'Binary value here is:', 43)
+('Temp value is: ', '0xb0', 'Array[y] value is: ', '0x30')
+#####################################
+('Y value is:', 15, '|| X value is :', 13)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 14)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 5, 'Binary value here is:', 43)
+('Temp value is: ', '0x50', 'Array[y] value is: ', '0x50')
+#####################################
+('Y value is:', 14, '|| X value is :', 12)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 13)
+('Temp value here is: ', '0x8', ' ||||', '0x80', 'x%7 is:', 4, 'Binary value here is:', 43)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 13, '|| X value is :', 11)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 12)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 3, 'Binary value here is:', 43)
+('Temp value is: ', '0x22', 'Array[y] value is: ', '0x22')
+#####################################
+('Y value is:', 12, '|| X value is :', 10)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 11)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 43)
+('Temp value is: ', '0xa4', 'Array[y] value is: ', '0x24')
+#####################################
+('Y value is:', 11, '|| X value is :', 9)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 10)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 1, 'Binary value here is:', 43)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 10, '|| X value is :', 8)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 9)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 0, 'Binary value here is:', 43)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 9, '|| X value is :', 7)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 8)
+('Temp value here is: ', '0x1', ' ||||', '0x80', 'x%7 is:', 7, 'Binary value here is:', 43)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 8, '|| X value is :', 6)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 7)
+('BINARY AF', '0x36')
+#####################################
+('Y value is:', 7, '|| X value is :', 6)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 6)
+('Temp value here is: ', '0x2', ' ||||', '0x80', 'x%7 is:', 6, 'Binary value here is:', 54)
+('Temp value is: ', '0xd4', 'Array[y] value is: ', '0x54')
+#####################################
+('Y value is:', 6, '|| X value is :', 5)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 5)
+('Temp value here is: ', '0x4', ' ||||', '0x80', 'x%7 is:', 5, 'Binary value here is:', 54)
+('Temp value is: ', '0xa8', 'Array[y] value is: ', '0x28')
+#####################################
+('Y value is:', 5, '|| X value is :', 4)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 4)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 4, 'Binary value here is:', 54)
+('Temp value is: ', '0x27', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 4, '|| X value is :', 3)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 3)
+('Temp value here is: ', '0x10', ' ||||', '0x80', 'x%7 is:', 3, 'Binary value here is:', 54)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 3, '|| X value is :', 2)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 2)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 54)
+('Temp value is: ', '0xa7', 'Array[y] value is: ', '0x27')
+#####################################
+('Y value is:', 2, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x0', ' ||||', '0x0', 'x%7 is:', 1, 'Binary value here is:', 54)
+('Temp value is: ', '0x40', 'Array[y] value is: ', '0x40')
+#####################################
+('Y value is:', 1, '|| X value is :', 0)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x0', ' ||3.87.82.50 - - [26/Oct/2019 23:05:55] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 23:06:06] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:08] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:10] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:11] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:12] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:13] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:13] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:06:14] "GET /sms HTTP/1.1" 200 -
+54.204.143.211 - - [26/Oct/2019 23:10:06] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 23:10:12] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:10:13] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:10:15] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:10:17] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:10:18] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:10:18] "GET /sms HTTP/1.1" 200 -
+3.83.49.14 - - [26/Oct/2019 23:11:43] "POST /sms HTTP/1.1" 500 -
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1997, in __call__
+    return self.wsgi_app(environ, start_response)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1985, in wsgi_app
+    response = self.handle_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1540, in handle_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1982, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1614, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1517, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/lib/python2.7/dist-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 223, in createMessage
+    add_data(decoded_message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 124, in add_data
+    frame = split_message(message_byte)
+  File "/fserver/homeserver/thuthazack/homedir/default/Documents/server_python/server_code/ssi-database/server.py", line 88, in split_message
+    message_bit.frombytes(message_byte) #need if uu is correct
+TypeError: byte string expected
+35.3.36.25 - - [26/Oct/2019 23:11:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:11:48] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:11:49] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:11:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:11:51] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:11:52] "GET /sms HTTP/1.1" 200 -
+35.3.36.25 - - [26/Oct/2019 23:11:52] "GET /sms HTTP/1.1" 200 -
+||', '0x0', 'x%7 is:', 0, 'Binary value here is:', 54)
+('Temp value is: ', '0x2c', 'Array[y] value is: ', '0x2c')
+#####################################
+('Y value is:', 0, '|| X value is :', -1)
+##################################### 
+
+
+
+
+[64, 167, 167, 39, 168, 212, 167, 39, 39, 164, 34, 167, 80, 44]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xc0', 'Array[y] value is: ', '0x40')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xac', 'Array[y] value is: ', '0x2c')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################### 
+
+
+
+
+[172, 192]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+you have been summoned
+('Y value at beginning is: ', 1)
+('Temp value here is: ', '0x20', ' ||||', '0x80', 'x%7 is:', 2, 'Binary value here is:', 116)
+('Temp value is: ', '0xac', 'Array[y] value is: ', '0x2c')
+#####################################
+('Y value is:', 1, '|| X value is :', 1)
+##################################### 
+
+
+
+
+('Y value at beginning is: ', 0)
+('Temp value here is: ', '0x40', ' ||||', '0x80', 'x%7 is:', 1, 'Binary value here is:', 116)
+('Temp value is: ', '0xc4', 'Array[y] value is: ', '0x44')
+#####################################
+('Y value is:', 0, '|| X value is :', 0)
+##################################### 
+
+
+
+
+[196, 172]
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run recurring task
+Run re
